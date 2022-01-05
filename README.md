@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=BomYu&fontAlign=85&fontAlignY=40&&color=#fad0c4&fontColor=#ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=BomYu&fontAlign=85&fontAlignY=40&&color=#fad0c4&fontColor=ffffff)
 
 <div align=center>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
